@@ -1,0 +1,33 @@
+# **Curso Maratona Java - DevDojo**
+
+#### links: 
+[Playlist Maratona Java DevDojo](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+
+[GitHub do curso](https://github.com/devdojobr/maratona-java-virado-no-jiraya)
+
+### Assuntos vistos até o momento:
+
+* Maratona Java 01 - O que esperar do curso
+* Maratona Java 02 - Como Java Funciona
+* Maratona Java 03 - Fazendo o download da JDK 15
+* Maratona Java 04 - Configurando variaveis de ambiente
+* Maratona Java 05 - Executando compilação manualmente
+* Maratona Java 06 - Download da IDE IntelliJ Community
+* Maratona Java 07 - Conhecendo a IDE IntelliJ Community
+* Maratona Java 08 - Organizando o código em pacotes
+* Maratona Java 09 - Comentários
+* Maratona Java 10 - Tipos primitivos pt 01 - convenções de variáveis
+* Maratona Java 11 - Tipos primitivos pt 02 - declaração e tamanho em memória
+* Maratona Java 12 - Tipos primitivos pt 03 - casting
+* Maratona Java 13 - Tipos primitivos pt 04 - Strings
+* Maratona Java 14 - Tipos primitivos pt 05 - Exercício
+* Maratona Java 15 - Operadores pt 01 - Aritiméticos
+* Maratona Java 16 - Operadores pt 02 - Relacionais
+* Maratona Java 17 - Operadores pt 03 - Lógicos AND
+* Maratona Java 18 - Operadores pt 04 - Lógicos OR
+* Maratona Java 19 - Operadores pt 05 - Atribuição
+* Maratona Java 20 - Estruturas Condicionais pt 01 - IF
+* Maratona Java 21 - Estruturas Condicionais pt 02 - ELSE IF
+* Maratona Java 22 - Estruturas Condicionais pt 03 - Operador ternário
+* Maratona Java 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
+* Maratona Java 24 - Estruturas Condicionais pt 05 - Resolução do exercícios
