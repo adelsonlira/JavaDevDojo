@@ -31,3 +31,10 @@
 * Maratona Java 22 - Estruturas Condicionais pt 03 - Operador ternário
 * Maratona Java 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
 * Maratona Java 24 - Estruturas Condicionais pt 05 - Resolução do exercícios
+* Maratona Java 25 - Estruturas Condicionais pt 06 - Switch
+* Maratona Java 26 - Estruturas Condicionais pt 07 - Switch exercício
+* Maratona Java 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
+* Maratona Java 28 - Estruturas de Repetição pt 02 - Exercício for
+* Maratona Java 29 - Estruturas de Repetição pt 03 - Break
+* Maratona Java 30 - Estruturas de Repetição pt 04 - Exercício Break
+* Maratona Java 31 - Estruturas de Repetição pt 05 - Continue
