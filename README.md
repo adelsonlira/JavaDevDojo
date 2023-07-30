@@ -38,3 +38,7 @@
 * Maratona Java 29 - Estruturas de Repetição pt 03 - Break
 * Maratona Java 30 - Estruturas de Repetição pt 04 - Exercício Break
 * Maratona Java 31 - Estruturas de Repetição pt 05 - Continue
+* Maratona Java 32 - Arrays pt 01
+* Maratona Java 33 - Arrays pt 02
+* Maratona Java 34 - Arrays pt 03
+
