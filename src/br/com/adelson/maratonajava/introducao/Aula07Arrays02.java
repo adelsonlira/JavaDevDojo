@@ -40,7 +40,16 @@ public class Aula07Arrays02 {
         for (int i = 0; i < nomes.length; i++) {
             System.out.println(nomes[i]);
         }
+        System.out.println("------------------------");
 
+        //outras formas de inicializar um array
 
+        int[] numeros = new int[5];
+        int[] numeros2 = {1, 2, 3, 4, 5};
+        int[] numeros3 = new int[]{5, 4, 3, 2, 1};
+
+        for (int i = 0; i < numeros3.length; i++) {
+            System.out.println(numeros3[i]);
+        }
     }
 }
