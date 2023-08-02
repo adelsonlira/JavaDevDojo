@@ -44,16 +44,11 @@
 * Maratona Java 35 - Arrays pt 04 - Foreach
 * Maratona Java 36 - Arrays Multidimensionais pt 01
 * Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach
+* Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
 
-
-
-
-
-
-<div style="text-align: center;"> 
 
 ![100%](https://progress-bar.dev/13/?scale=100&title=Progress&width=240) 
 
-</div>
+
 
 
