@@ -45,7 +45,8 @@
 * Maratona Java 36 - Arrays Multidimensionais pt 01
 * Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach
 * Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
-* Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01
+* Maratona Java 39 - Orientação Objetos - Introdução classes pt 01
+* Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
 
 
 ![100%](https://progress-bar.dev/14/?scale=100&title=Progress&width=240) 
