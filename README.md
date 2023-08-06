@@ -47,9 +47,12 @@
 * Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
 * Maratona Java 39 - Orientação Objetos - Introdução classes pt 01
 * Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
+* Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
+* Maratona Java 42 - Orientação Objetos - Exercício Classes
+* Maratona Java 43 - Orientação Objetos - Referência de objetos
 
 
-![100%](https://progress-bar.dev/14/?scale=100&title=Progress&width=240) 
+![100%](https://progress-bar.dev/15/?scale=100&title=Progress&width=240) 
 
 
 
