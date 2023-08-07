@@ -50,6 +50,7 @@
 * Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
 * Maratona Java 42 - Orientação Objetos - Exercício Classes
 * Maratona Java 43 - Orientação Objetos - Referência de objetos
+* Maratona Java 44 - Orientação Objetos - Métodos pt 01
 
 
 ![100%](https://progress-bar.dev/15/?scale=100&title=Progress&width=240) 
