@@ -13,5 +13,17 @@ public class CalculadoraTest03 {
 
         double result2 = calculadora.divideDoisNumeros(55.5, 2);
         System.out.println(result2);
+
+        System.out.println("-------------------");
+
+        double result3 = calculadora.divideDoisNumeros02(60, 0);
+        System.out.println(result3);
+
+        System.out.println("-------------------");
+
+        calculadora.imprimeDivisaoDeDoisNumeros(20,0);
+
+        calculadora.imprimeDivisaoDeDoisNumeros(30,2);
+
     }
 }

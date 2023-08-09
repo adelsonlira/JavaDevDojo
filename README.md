@@ -5,7 +5,7 @@
 
 [GitHub do curso](https://github.com/devdojobr/maratona-java-virado-no-jiraya)
 
-### Assuntos vistos até o momento:
+### Assuntos estudados até o momento:
 
 * Maratona Java 01 - O que esperar do curso
 * Maratona Java 02 - Como Java Funciona
@@ -53,8 +53,12 @@
 * Maratona Java 44 - Orientação Objetos - Métodos pt 01
 * Maratona Java 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
 * Maratona Java 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
+* Maratona Java 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
+* Maratona Java 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
+* Maratona Java 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
+* Maratona Java 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
 
-![100%](https://progress-bar.dev/15/?scale=100&title=Progress&width=240) 
+![100%](https://progress-bar.dev/17/?scale=100&title=Progress&width=240) 
 
 
 
