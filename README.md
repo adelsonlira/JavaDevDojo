@@ -52,7 +52,7 @@
 * Maratona Java 43 - Orientação Objetos - Referência de objetos
 * Maratona Java 44 - Orientação Objetos - Métodos pt 01
 * Maratona Java 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
-
+* Maratona Java 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
 
 ![100%](https://progress-bar.dev/15/?scale=100&title=Progress&width=240) 
 
