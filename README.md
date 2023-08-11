@@ -57,6 +57,7 @@
 * Maratona Java 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
 * Maratona Java 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
 * Maratona Java 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
+* Maratona Java 51 - Orientação Objetos - Métodos pt 08 - Referência this
 
 ![100%](https://progress-bar.dev/17/?scale=100&title=Progress&width=240) 
 
