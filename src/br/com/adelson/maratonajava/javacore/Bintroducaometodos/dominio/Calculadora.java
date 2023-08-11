@@ -60,4 +60,12 @@ public class Calculadora {
         }
         System.out.println(soma);
     }
+
+    public void somaVarArgs2(int num1, int num2, int... numeros){
+        int soma = 0;
+        for(int num: numeros){
+            soma += num;
+        }
+        System.out.println(soma);
+    }
 }
