@@ -59,6 +59,7 @@
 * Maratona Java 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
 * Maratona Java 51 - Orientação Objetos - Métodos pt 08 - Referência this
 * Maratona Java 52 - Orientação Objetos - Métodos pt 09 - Varargs
+* Maratona Java 53 - Orientação Objetos - Métodos pt 10 - Exercise
 
 ![100%](https://progress-bar.dev/18/?scale=100&title=Progress&width=240) 
 

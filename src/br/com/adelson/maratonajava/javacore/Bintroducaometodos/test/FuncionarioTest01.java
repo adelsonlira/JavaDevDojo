@@ -10,10 +10,10 @@ public class FuncionarioTest01 {
 
         funcionario.nome = "João";
         funcionario.idade = 28;
-        funcionario.salario = new double[]{2560, 3780, 7500};
+        funcionario.salarios = new double[]{2560, 3780, 7500};
 
-        double resultado = imprime.mediaSalarios(funcionario.salario);
+        double resultado = imprime.mediaSalarios(funcionario.salarios);
 
-        imprime.imprimirFuncionarios(funcionario.nome, funcionario.idade, resultado);
+        imprime.imprimirFuncionarios(funcionario.nome, funcionario.idade, funcionario.salarios, resultado);
     }
 }
