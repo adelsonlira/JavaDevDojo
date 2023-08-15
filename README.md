@@ -60,8 +60,12 @@
 * Maratona Java 51 - Orientação Objetos - Métodos pt 08 - Referência this
 * Maratona Java 52 - Orientação Objetos - Métodos pt 09 - Varargs
 * Maratona Java 53 - Orientação Objetos - Métodos pt 10 - Exercise
+* Maratona Java 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
+* Maratona Java 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
+* Maratona Java 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
 
-![100%](https://progress-bar.dev/18/?scale=100&title=Progress&width=240) 
+
+![100%](https://progress-bar.dev/19/?scale=100&title=Progress&width=240) 
 
 
 

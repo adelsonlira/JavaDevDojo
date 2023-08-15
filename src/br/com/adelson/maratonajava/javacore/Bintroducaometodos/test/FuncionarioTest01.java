@@ -8,12 +8,12 @@ public class FuncionarioTest01 {
         Funcionario funcionario = new Funcionario();
         SalarioFuncionario imprime = new SalarioFuncionario();
 
-        funcionario.nome = "João";
-        funcionario.idade = 28;
-        funcionario.salarios = new double[]{2560, 3780, 7500};
+        funcionario.setNome("João");
+        funcionario.setIdade(28);
+        funcionario.setSalarios(new double[]{2560, 3780, 7500});
 
-        double resultado = imprime.mediaSalarios(funcionario.salarios);
+        double resultado = imprime.mediaSalarios(funcionario.getSalarios());
 
-        imprime.imprimirFuncionarios(funcionario.nome, funcionario.idade, funcionario.salarios, resultado);
+        imprime.imprimirFuncionarios(funcionario.getNome(), funcionario.getIdade(), funcionario.getSalarios(), resultado);
     }
 }

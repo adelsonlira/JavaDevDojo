@@ -1,10 +1,8 @@
 package br.com.adelson.maratonajava.javacore.Bintroducaometodos.dominio;
 
-public class Funcionario {
-
+public class Pessoa {
     private String nome;
     private int idade;
-    private double[] salarios;
 
     public String getNome() {
         return nome;
@@ -19,14 +17,11 @@ public class Funcionario {
     }
 
     public void setIdade(int idade) {
+        if(idade < 0){
+            System.out.println("Idade Inválida");
+            return;
+        }
         this.idade = idade;
     }
 
-    public double[] getSalarios() {
-        return salarios;
-    }
-
-    public void setSalarios(double[] salarios) {
-        this.salarios = salarios;
-    }
 }
