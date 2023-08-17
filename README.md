@@ -64,8 +64,7 @@
 * Maratona Java 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
 * Maratona Java 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
 * Maratona Java 57 - Orientação Objetos - Sobrecarga de métodos
-
-
+* Maratona Java 58 - Orientação Objetos - Construtores pt 01
 
 ![100%](https://progress-bar.dev/19/?scale=100&title=Progress&width=240) 
 
