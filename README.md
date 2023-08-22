@@ -67,6 +67,7 @@
 * Maratona Java 58 - Orientação Objetos - Construtores pt 01
 * Maratona Java 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
 * Maratona Java 60 - Orientação Objetos - Blocos de inicialização
+* Maratona Java 61 - Orientação Objetos - Modificador static
 
 ![100%](https://progress-bar.dev/21/?scale=100&title=Progress&width=240) 
 
