@@ -1,4 +1,4 @@
-package br.com.adelson.maratonajava.javacore.Eblocoinicializacao.domain;
+package br.com.adelson.maratonajava.javacore.Eblocoinicializacao.dominio;
 
 public class Anime {
 

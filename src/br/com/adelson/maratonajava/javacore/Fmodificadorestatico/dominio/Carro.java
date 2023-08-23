@@ -1,4 +1,4 @@
-package br.com.adelson.maratonajava.javacore.Fmodificadorestatico.domain;
+package br.com.adelson.maratonajava.javacore.Fmodificadorestatico.dominio;
 
 public class Carro {
     private String nome;

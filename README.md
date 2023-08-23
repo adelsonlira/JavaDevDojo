@@ -70,6 +70,7 @@
 * Maratona Java 61 - Orientação Objetos - Modificador static
 * Maratona Java 62 - Orientação Objetos - Métodos estáticos
 * Maratona Java 63 - Orientação Objetos - Bloco de inicialização estático
+* Maratona Java 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
 
 ![100%](https://progress-bar.dev/22/?scale=100&title=Progress&width=240) 
 

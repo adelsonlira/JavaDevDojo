@@ -1,6 +1,6 @@
 package br.com.adelson.maratonajava.javacore.Fmodificadorestatico.test;
 
-import br.com.adelson.maratonajava.javacore.Fmodificadorestatico.domain.Anime;
+import br.com.adelson.maratonajava.javacore.Fmodificadorestatico.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {
