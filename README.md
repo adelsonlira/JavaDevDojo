@@ -72,6 +72,7 @@
 * Maratona Java 63 - Orientação Objetos - Bloco de inicialização estático
 * Maratona Java 64 - Orientação Objetos - Associação pt 01 - Arrays com 
 * Maratona Java 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
+* Maratona Java 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
 
 ![100%](https://progress-bar.dev/22/?scale=100&title=Progress&width=240) 
 
