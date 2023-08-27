@@ -76,8 +76,9 @@
 * Maratona Java 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
 * Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
 * Maratona Java 69 - Orientação Objetos - Exercício leitura de dados do teclado
+* Maratona Java 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
 
-![100%](https://progress-bar.dev/22/?scale=100&title=Progress&width=240) 
+![100%](https://progress-bar.dev/24/?scale=100&title=Progress&width=240) 
 
 
 
