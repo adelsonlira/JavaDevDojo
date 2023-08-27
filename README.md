@@ -74,6 +74,7 @@
 * Maratona Java 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
 * Maratona Java 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
 * Maratona Java 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
+* Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
 
 ![100%](https://progress-bar.dev/22/?scale=100&title=Progress&width=240) 
 
