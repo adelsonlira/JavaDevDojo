@@ -77,6 +77,7 @@
 * Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
 * Maratona Java 69 - Orientação Objetos - Exercício leitura de dados do teclado
 * Maratona Java 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
+* Maratona Java 71 - Orientação Objetos - Herança pt 01
 
 ![100%](https://progress-bar.dev/24/?scale=100&title=Progress&width=240) 
 
