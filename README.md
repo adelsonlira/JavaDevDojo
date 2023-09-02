@@ -85,9 +85,10 @@
 * Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString
 * Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
 * Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência
+* Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
 
 
-![100%](https://progress-bar.dev/25/?scale=100&title=Progress&width=240) 
+![100%](https://progress-bar.dev/27/?scale=100&title=Progress&width=240) 
 
 
 
