@@ -81,6 +81,7 @@
 * Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super
 * Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected
 * Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
+* Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
 
 ![100%](https://progress-bar.dev/25/?scale=100&title=Progress&width=240) 
 
