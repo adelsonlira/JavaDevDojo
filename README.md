@@ -83,6 +83,7 @@
 * Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
 * Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
 * Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString
+* Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
 
 ![100%](https://progress-bar.dev/25/?scale=100&title=Progress&width=240) 
 
