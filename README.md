@@ -88,7 +88,7 @@
 * Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
 
 
-![100%](https://progress-bar.dev/27/?scale=100&title=Progress&width=240) 
+![100%](https://progress-bar.dev/28/?scale=100&title=Progress&width=240) 
 
 
 
