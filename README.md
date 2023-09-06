@@ -90,7 +90,7 @@
 * Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
 
 
-![100%](https://progress-bar.dev/28/?scale=100&title=Progress&width=240) 
+![100%](https://progress-bar.dev/29/?scale=100&title=Progress&width=240) 
 
 
 
