@@ -5,7 +5,8 @@
 
 [GitHub do curso](https://github.com/devdojobr/maratona-java-virado-no-jiraya)
 
-### Assuntos estudados até o momento: ![100%](https://progress-bar.dev/30/?scale=100&title=Progress&width=240)
+### Assuntos estudados até o momento:
+![100%](https://progress-bar.dev/30/?scale=100&title=Progress&width=240)
 
 * Maratona Java 01 - O que esperar do curso
 * Maratona Java 02 - Como Java Funciona
