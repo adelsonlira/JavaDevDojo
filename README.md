@@ -91,6 +91,7 @@
 * Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
 * Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos
 * Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
+* Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
 
 
 ![100%](https://progress-bar.dev/29/?scale=100&title=Progress&width=240) 
