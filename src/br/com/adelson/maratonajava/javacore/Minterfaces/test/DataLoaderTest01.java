@@ -1,5 +1,6 @@
 package br.com.adelson.maratonajava.javacore.Minterfaces.test;
 
+import br.com.adelson.maratonajava.javacore.Minterfaces.dominio.DataLoader;
 import br.com.adelson.maratonajava.javacore.Minterfaces.dominio.DatabaseLoader;
 import br.com.adelson.maratonajava.javacore.Minterfaces.dominio.FileLoader;
 
@@ -16,5 +17,8 @@ public class DataLoaderTest01 {
         System.out.println("----------------------");
         databaseLoader.CheckPermission();
         fileLoader.CheckPermission();
+        System.out.println("----------------------");
+        DataLoader.retrieveMaxDataSize();
+        DatabaseLoader.retrieveMaxDataSize();
     }
 }
