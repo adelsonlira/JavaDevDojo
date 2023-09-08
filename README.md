@@ -88,6 +88,7 @@
 * Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
 * Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução
 * Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
+* Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
 
 
 ![100%](https://progress-bar.dev/29/?scale=100&title=Progress&width=240) 
