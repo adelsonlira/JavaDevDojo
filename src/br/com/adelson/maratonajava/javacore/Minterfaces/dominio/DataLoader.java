@@ -7,4 +7,8 @@ public interface DataLoader {
 
     //public abstract void load();
     void load();
+
+    default void CheckPermission(){
+        System.out.println("Fazendo checagem de permissões");
+    }
 }
