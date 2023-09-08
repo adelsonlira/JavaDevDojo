@@ -96,7 +96,7 @@
 * Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
 
 
-![100%](https://progress-bar.dev/29/?scale=100&title=Progress&width=240) 
+![100%](https://progress-bar.dev/30/?scale=100&title=Progress&width=240) 
 
 
 
