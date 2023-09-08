@@ -1,5 +1,7 @@
 package br.com.adelson.maratonajava.javacore.Kenum.dominio;
 
+
+
 public class Cliente {
 
     private String nome;
