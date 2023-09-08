@@ -93,6 +93,7 @@
 * Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
 * Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
 * Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
+* Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
 
 
 ![100%](https://progress-bar.dev/29/?scale=100&title=Progress&width=240) 
