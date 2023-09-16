@@ -99,6 +99,8 @@
 * Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
 * Maratona Java 90 - Orientação Objetos - Polimorfismo pt 01 - Introdução
 * Maratona Java 91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento
+* Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
+
 
 
 

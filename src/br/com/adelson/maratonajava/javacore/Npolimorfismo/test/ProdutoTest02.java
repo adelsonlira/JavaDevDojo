@@ -17,7 +17,7 @@ public class ProdutoTest02 {
         System.out.println(produto2.getNome());
         System.out.println(produto2.getValor());
         System.out.println(produto2.calcularImposto());
-        System.out.println("---------------------");
+
 
     }
 }
