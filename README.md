@@ -103,6 +103,8 @@
 * Maratona Java 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof
 * Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
 * Maratona Java 95 - Exceções pt 01 - Errors
+* Maratona Java 96 - Exceções pt 02 - RuntimeException
+
 
 
 
