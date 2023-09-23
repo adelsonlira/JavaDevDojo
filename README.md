@@ -104,6 +104,8 @@
 * Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
 * Maratona Java 95 - Exceções pt 01 - Errors
 * Maratona Java 96 - Exceções pt 02 - RuntimeException
+* Maratona Java 97 - Exceções pt 03 - Exception
+
 
 
 
