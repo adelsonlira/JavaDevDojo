@@ -106,6 +106,7 @@
 * Maratona Java 96 - Exceções pt 02 - RuntimeException
 * Maratona Java 97 - Exceções pt 03 - Exception
 * Maratona Java 98 - Exceções pt 04 - Lançando exceção unchecked
+* Maratona Java 99 - Exceções pt 05 - Lançando exceção checked 
 
 
 
