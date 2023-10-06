@@ -109,6 +109,8 @@
 * Maratona Java 99 - Exceções pt 05 - Lançando exceção checked 
 * Maratona Java 100 - Exceções pt 06 - Bloco Finally
 * Maratona Java 101 - Exceções pt 07 - Capturando múltiplas exceções
+* Maratona Java 102 - Exceções pt 08 - Multi catch em linha
+
 
 
 
